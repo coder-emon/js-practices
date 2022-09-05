@@ -982,7 +982,8 @@
 // 1st parameter : element / item;
 // 2nd parameter : index number;
 // 3rd parameter : whole array;
-var foods = ["Cake", "Pauruti", "Banana", "Rice", "fish"] ;
+
+// var foods = ["Cake", "Pauruti", "Banana", "Rice", "fish"] ;
 // foods.forEach(function(para1, para2, para3){
 //         console.log(para1);
 //         console.log(para2);
